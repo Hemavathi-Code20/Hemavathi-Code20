@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemavathi-Code20
+- 👋 Hi, I’m Hemavathi
 - 👀 I’m interested in creative coding and AI innovations.
 - 🌱 I’m currently learning how to harness the power of AI to create intuitive applications that adapt and grow with user needs.
 - 🤝 I’m looking to collaborate on groundbreaking projects that push boundaries.
