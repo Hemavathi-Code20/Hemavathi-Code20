@@ -16,13 +16,26 @@
 
 ---
 
-- 👋 Hey there! I'm Hemavathi — a developer who blends creativity with code.  
-💻 I work across the full MERN stack, turning ideas into intuitive and scalable web apps.  
-🤖 I'm deeply curious about AI and how intelligent systems can enhance real-world experiences.  
-🌱 Constantly evolving — whether it's learning new frameworks, exploring machine learning, or refining backend logic.  
-👯 I'm always open to collaborating on impactful projects that challenge conventions and spark innovation.  
-♟️ When I’m not building or learning, you’ll find me solving puzzles, playing chess, or decoding riddles.  
-🎯 My goal? To craft technology that not only works — but feels human.
+<h3 align="center">
+  👋 Hey there! I'm <b>Hemavathi</b> — a developer who blends <i>creativity</i> with <code>code</code>.
+</h3>
+
+<p align="center">
+  💻 I build full-stack web apps with the <b>MERN</b> stack — turning raw ideas into intuitive, scalable, and user-focused solutions.  
+  <br>
+  🤖 Deeply curious about how <b>AI</b> can enhance real-world experiences — one intelligent system at a time.
+  <br>
+  🌱 Forever learning: from refining backend logic, to playing with machine learning models and new frameworks.  
+  <br>
+  👯 Let’s collaborate on projects that <i>challenge conventions</i> and spark innovation!  
+  <br>
+  ♟️ Outside the terminal, I’m all about puzzles, chess matches, and decoding riddles 🔍  
+</p>
+
+<h4 align="center">
+  🎯 <i>My goal?</i> To craft technology that not only works — but <b><i>feels human</i></b>.
+</h4>
+
 
 
 <!---
