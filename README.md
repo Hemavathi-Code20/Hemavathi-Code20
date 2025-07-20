@@ -1,6 +1,7 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&width=800&lines=👋+Hi%2C+I’m+Hemavathi;👀+Interested+in+creative+coding+%26+AI+innovations;🌱+Learning+AI+for+intuitive+app+development;🤝+Looking+to+collaborate+on+groundbreaking+projects;⚡+Love+chess%2C+puzzles+%26+riddles!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8AC0&center=true&vCenter=true&width=435&lines=Hi%2C+I’m+Hemavathi.;👀+Interested+in+creative+coding+and+AI.;🌱+Learning+to+build+smart+AI+apps.;🤝+Open+to+collaborations+on+groundbreaking+projects.;😄+Pronouns%3A+She.;⚡+Love+chess%2C+puzzles%2C+and+challenges!)
+
 
 </div>
 
