@@ -1,9 +1,14 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8AC0&center=true&vCenter=true&width=435&lines=Hi%2C+I’m+Hemavathi.;👀+Interested+in+creative+coding+and+AI.;🌱+Learning+to+build+smart+AI+apps.;🤝+Open+to+collaborations+on+groundbreaking+projects.;😄+Pronouns%3A+She.;⚡+Love+chess%2C+puzzles%2C+and+challenges!)
+<!-- Blue color for name -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3B82F6&width=800&lines=Hi%2C+I’m+Hemavathi+👩‍💻)
 
+<!-- Teal color for roles -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14B8A6&width=800&lines=Web+Developer+|+MERN+Full+Stack+Developer+|+Backend+Developer)
 
 </div>
+
+
 
 ---
 
