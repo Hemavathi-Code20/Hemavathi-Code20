@@ -1,8 +1,9 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Hemavathi+—+Web+Developer+👩‍💻;Hi%2C+I'm+Hemavathi+—+MERN+Full+Stack+Developer+👩‍💻;Hi%2C+I'm+Hemavathi+—+Backend+Developer+👩‍💻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Hemavathi+—+Web+Developer+👩‍💻;Hi%2C+I'm+Hemavathi+—+MERN+Full+Stack+Developer+👩‍💻;Hi%2C+I'm+Hemavathi+—+Backend+Developer+👩‍💻)
 
 </div>
+
 
 
 
