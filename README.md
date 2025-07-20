@@ -16,12 +16,14 @@
 
 ---
 
-- 👋 Hi, I’m Hemavathi  
-- 👀 I’m interested in creative coding and AI innovations.  
-- 🌱 I’m currently learning how to harness the power of AI to create intuitive applications that adapt and grow with user needs.  
-- 🤝 I’m looking to collaborate on groundbreaking projects that push boundaries.  
-- 😄 Pronouns: She  
-- ⚡ Fun fact: I love playing chess, solving puzzles, and riddles in my free time, and I’m always on the lookout for the next great challenge!
+- 👋 Hey there! I'm Hemavathi — a developer who blends creativity with code.  
+💻 I work across the full MERN stack, turning ideas into intuitive and scalable web apps.  
+🤖 I'm deeply curious about AI and how intelligent systems can enhance real-world experiences.  
+🌱 Constantly evolving — whether it's learning new frameworks, exploring machine learning, or refining backend logic.  
+👯 I'm always open to collaborating on impactful projects that challenge conventions and spark innovation.  
+♟️ When I’m not building or learning, you’ll find me solving puzzles, playing chess, or decoding riddles.  
+🎯 My goal? To craft technology that not only works — but feels human.
+
 
 <!---
 Hemavathi-Code20/Hemavathi-Code20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
