@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Git+Activeness)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FACC15&center=true&vCenter=true&width=435&lines=Git+Stats)
 
 </div>
 
